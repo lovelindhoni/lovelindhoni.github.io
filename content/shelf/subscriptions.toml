@@ -1,0 +1,50 @@
+[[collection]]
+type="box"
+link="https://substack.com/@culturist"
+img="/assets/shelf/icon-the-culturist.webp"
+rotate=true
+title="The Culturist"
+subtitle="Pursuing the true, good and beautiful — in history, art and culture."
+
+[[collection]]
+type="box"
+img="/assets/shelf/icon-low-level.webp"
+link="https://www.youtube.com/@LowLevelTV"
+rotate=true
+title="Low level"
+subtitle="Videos about cyber security + software security."
+
+[[collection]]
+type="box"
+img="/assets/shelf/icon-programmers-are-also-human.webp"
+link="https://www.youtube.com/@programmersarealsohuman5909"
+rotate=true
+title="Programmers are also human"
+subtitle="Programmers are also human"
+
+
+[[collection]]
+type="box"
+img="/assets/shelf/icon-james-lucas.webp"
+link="https://www.james-lucas.com/"
+rotate=true
+title="James Lucas"
+subtitle="Beauty is truth, truth beauty — that is all ye know on earth, and all ye need to know."
+
+[[collection]]
+type="box"
+img="/assets/shelf/icon-fireship.webp"
+link="https://www.youtube.com/@fireship"
+rotate=true
+title="Fireship"
+subtitle="High-intensity ⚡ code tutorials and tech news to help you ship your app faster."
+
+
+[[collection]]
+type="box"
+img="/assets/shelf/icon-arpits-newsletter.webp"
+link="https://arpit.substack.com/"
+rotate=true
+title="Arpit's Newsletter"
+subtitle="This newsletter is penned by Arpit Bhayani, a Computer Science Engineer who has most recently spent 10 years building scalable distributed systems and search engines at Amazon, Practo, and Unacademy."
+

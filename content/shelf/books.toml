@@ -1,0 +1,35 @@
+[[collection]]
+type = "art"
+img = "/assets/shelf/icon-siddhartha.webp"
+title = "Siddhartha"
+link = "https://www.goodreads.com/book/show/52036.Siddhartha"
+subtitle = "Herman Hesse"
+content = "Herman Hesse's classic novel has delighted, inspired, and influenced generations of readers, writers, and thinkers. In this story of a wealthy Indian Brahmin who casts off a life of privilege to seek spiritual fulfillment. Hesse synthesizes disparate philosophies--Eastern religions, Jungian archetypes, Western individualism--into a unique vision of life as expressed through one man's search for true meaning."
+footer = "⭐︎⭐︎⭐︎⭐︎⭐︎"
+
+[[collection]]
+type = "art"
+img = "/assets/shelf/icon-the-trial.webp"
+title = "The Trial"
+link = "https://www.goodreads.com/book/show/17690.The_Trial"
+subtitle = "Franz Kafka"
+content = "The Trial is the terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information. Whether read as an existential tale, a parable, or a prophecy of the excesses of modern bureaucracy wedded to the madness of totalitarianism."
+footer = "⭐︎⭐︎⭐︎⭐︎"
+
+[[collection]]
+type = "art"
+img = "/assets/shelf/icon-designing-data-intensive-applications.webp"
+title = "Designing Data Intensive Applications"
+link = "https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/"
+subtitle = "Martin Kleppmann"
+content = "Author Martin Kleppmann helps you navigate this diverse landscape by examining the pros and cons of various technologies for processing and storing data. Software keeps changing, but the fundamental principles remain the same. With this book, software engineers and architects will learn how to apply those ideas in practice, and how to make full use of data in modern applications."
+footer = "⭐︎⭐︎⭐︎⭐︎"
+
+[[collection]]
+type = "art"
+img = "/assets/shelf/icon-sherlock-holmes.webp"
+title = "Sherlock Holmes"
+link = "https://www.goodreads.com/series/49996-sherlock-holmes"
+subtitle = "Arthur Conan Doyle"
+content = "Sherlock Holmes is a fictional consulting detective in London ~1880-1914 created by Scottish author and physician Sir Arthur Conan Doyle. Holmes, master of disguise, reasoned logically to deduce clients' background from their first appearance."
+footer = "⭐︎⭐︎⭐︎⭐︎"

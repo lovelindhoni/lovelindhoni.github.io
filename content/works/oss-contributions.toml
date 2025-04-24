@@ -1,0 +1,13 @@
+[[collection]]
+type = "card"
+title = "Cargo Semver checks"
+link = "https://github.com/obi1kenobi/cargo-semver-checks/commits?author=lovelindhoni"
+content = "A CLI tool to lint your rust crate API changes for semver violations."
+tags = ["rust", "CI", "CLI"]
+
+[[collection]]
+type = "card"
+title = "Stdlib JS"
+link = "https://github.com/stdlib-js/stdlib/commits?author=lovelindhoni"
+content = "Stdlib is a standard library with an emphasis on numerical and scientific computation, written in JavaScript (and C) for execution in browsers and in Node.js"
+tags = ["Javascript", "Math", "C", "nodejs"]

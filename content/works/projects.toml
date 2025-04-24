@@ -1,0 +1,20 @@
+[[collection]]
+type = "card"
+title = "Lally"
+link = "https://github.com/lovelindhoni/lally"
+content = "Lally is a distributed in-memory key-value database, written in Rust and Tokio, loosely inspired by Riak and Project Voldermort. It prioritizes high availability, adhering to the AP aspects of the CAP theorem. Lally is being designed for high concurrency, extendability via hooks, and features persistent append-only file logging for reliable crash recovery."
+tags = ["rust", "distributed-systems", "backend", "databases"] 
+
+[[collection]]
+type = "card"
+title = "MdCraft"
+link = "https://github.com/lovelindhoni/mdcraft"
+content = "MdCraft is an open-source web app that serves as an in-browser Markdown editor and previewer. It allows users to create, organize, and edit Markdown notes with a live HTML preview and code highlighting. It's a convenient tool for taking notes during programming tutorials and more."
+tags = ["svelte-js", "typescript", "web", "frontend"]
+
+# [[collection]]
+# type = "card"
+# title = "NS3"
+# link = "https://github.com/lovelindhoni/SIH1773"
+# content = ""
+# tags = ["svelte-js", "typescript", "machine-learning", "computer-vision", "rust", "full-stack"]

@@ -1,0 +1,21 @@
+[[collection]]
+type = "card"
+icon = "/assets/works/icon-bitspace.webp"
+title = "Bitspace"
+subtitle = "Mentor"
+date = "2023-present"
+content = """\
+Bitspace is an organization dedicated to developing impactful open-source projects that benefit the community. I am a mentor in the org and a maintainer of projects.
+"""
+
+
+[[collection]]
+type = "card"
+icon = "/assets/works/icon-arhasi-ai.webp"
+title = "Arhasi, AI with Integrity"
+subtitle = "Data Science Intern"
+date = "2024-2024"
+content = """\
+Developed interactive real-time dashboards for managing custom AI agents, which enhanced data visualization and decision-making. 
+Closed Jira Issues.
+"""

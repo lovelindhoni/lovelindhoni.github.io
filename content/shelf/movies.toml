@@ -1,0 +1,55 @@
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-at-eternitys-gate.webp"
+link = "https://www.rottentomatoes.com/m/at_eternitys_gate"
+title = "At Eternity's Gate"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-reservoir-dogs.webp"
+link = "https://www.rottentomatoes.com/m/reservoir_dogs"
+title = "Reservoir Dogs"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-the-revenant.webp"
+link = "https://www.rottentomatoes.com/m/the_revenant_2015"
+title = "The Revenant"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-house-that-jack-built.webp"
+link = "https://www.rottentomatoes.com/m/the_house_that_jack_built_2018"
+title = "House that Jack built"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-interstellar.webp"
+link = "https://www.rottentomatoes.com/m/interstellar_2014"
+title = "Interstellar"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-clockwork-orange.webp"
+link = "https://www.rottentomatoes.com/m/clockwork_orange"
+title = "Clockwork Orange"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-birdman.webp"
+link = "https://www.rottentomatoes.com/m/birdman_2014"
+title = "Birdman"
+
+
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-tumbbad.webp"
+link = "https://www.rottentomatoes.com/m/tumbbad"
+title = "Tumbbad"
+
+[[collection]]
+type = "art_simple"
+img = "/assets/shelf/icon-charlie-and-the-chocolate-factory.webp"
+link = "https://www.rottentomatoes.com/m/charlie_and_the_chocolate_factory"
+title = "Charlie and the Chocolate Factory"

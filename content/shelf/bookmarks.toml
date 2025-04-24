@@ -1,0 +1,55 @@
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-huyenchip-mlops.webp"
+link = "https://huyenchip.com/mlops/"
+title = "MLOps guide MLOps guide | Chip Huyen"
+subtitle = "chip huyen"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-pg-internals.webp"
+link = "https://blog.algomaster.io/p/postgresql-internal-architecture"
+title = "How PostgreSQL Works"
+subtitle = "algomaster.io"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-ostep.webp"
+link = "https://pages.cs.wisc.edu/~remzi/OSTEP/"
+title = "Operating Systems: Three Easy Pieces"
+subtitle = "cs.wisc.edu"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-cses.webp"
+link = "https://cses.fi/problemset/"
+title = "CSES - CSES Problem Set - Tasks"
+subtitle = "cses"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-the-invitation.webp"
+link = "https://nowherethis.svs.io/2023/10/05/the-invitation"
+title = "now. here. this. — The Invitation"
+subtitle = "svs"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-typecraft-vim-registers.webp"
+link = "https://typecraft.dev/tutorial/how-well-do-you-know-vim-registers"
+title = "How Well Do You Know Vim Registers?"
+subtitle = "typecraft.io"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-neon-paxos.webp"
+link = "https://neon.tech/blog/paxos"
+title = "Why does Neon use Paxos instead of Raft?"
+subtitle = "neon"
+
+[[collection]]
+type = "entry"
+icon = "/assets/shelf/icon-systemdesign-fc.webp"
+link = "https://systemdesignfightclub.com/"
+title = "System Design Fight Club – Over 50 System Design Interview Questions"
+subtitle = "systemdesign FC"

@@ -40,8 +40,6 @@ img = "/assets/shelf/icon-birdman.webp"
 link = "https://www.rottentomatoes.com/m/birdman_2014"
 title = "Birdman"
 
-
-
 [[collection]]
 type = "art_simple"
 img = "/assets/shelf/icon-tumbbad.webp"
@@ -50,6 +48,6 @@ title = "Tumbbad"
 
 [[collection]]
 type = "art_simple"
-img = "/assets/shelf/icon-charlie-and-the-chocolate-factory.webp"
-link = "https://www.rottentomatoes.com/m/charlie_and_the_chocolate_factory"
-title = "Charlie and the Chocolate Factory"
+img = "/assets/shelf/icon-coco.webp"
+link = "https://www.rottentomatoes.com/m/coco_2017"
+title = "Coco"

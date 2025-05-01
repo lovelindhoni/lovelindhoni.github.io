@@ -39,4 +39,4 @@ I have a fish named Oliva.
 <!-- - Scoring 97% in the final year examination of high school. -->
 <!-- - Winning the Smart India Hackathon 2024 Edition. -->
 
-PGP/GPG public key available: `9CCE252F995B1D974ADE0E2DE39A800A52B1AC0E`
+PGP/GPG public key available in [keys.openpgpg.org](https://keys.openpgp.org): E39A800A52B1AC0E

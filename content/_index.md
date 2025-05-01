@@ -26,12 +26,12 @@ date_format = "%b %-d, %Y"
 
 I am a cs undergraduate in chennai institute of technology.
 
-I like distributed systems, backends, and anything that orchestrates things at scale. I am the kind of person who finds joy in seeing elegantly written pure functions.
+I like distributed systems, backends, and anything that orchestrates things at scale.
 
-I write code, but mostly I ponder what code I should write and what I shouldn't. Excessive tinkering on configuration, automating dev workflows which will only take 2 min/week, premature optimization down to the root — you could find me practicing all of them. But I do manage to ship in time.
+I write code, but mostly I ponder what code I should write and what I shouldn't. Excessive tinkering on configuration, automating dev workflows which will only take 2 min/week — you could find me practicing them. But I do manage to ship in time.
 
 I pay to lift weights, I watch films — the fine ones — and books too; I am a voracious reader. I am more of a Kafka person, but lately I've been delving into Dostoevsky. I am at least aiming for literary knowledge to make sense of [Thus Spoke Zarathustra](https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra) in a single read.
-I have a fish named Olivia.
+I have a fish named Oliva.
 
 <!-- Achievements that are close to my heart, -->
 <!---->

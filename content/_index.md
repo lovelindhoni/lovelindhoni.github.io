@@ -26,7 +26,7 @@ date_format = "%b %-d, %Y"
 
 I am a cs undergraduate in chennai institute of technology.
 
-I like distributed systems, backends, and anything that orchestrates things at scale.
+I like distributed systems, backends, and anything that works at scale.
 
 I write code, but mostly I ponder what code I should write and what I shouldn't. Excessive tinkering on configuration, automating dev workflows which will only take 2 min/week — you could find me practicing them. But I do manage to ship in time.
 
